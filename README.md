@@ -32,10 +32,10 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lakshitha-git&show_icons=true&theme=tokyonight" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lakshitha-git&show_icons=true&theme=radical" />
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitha-git&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitha-git&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
