@@ -3,8 +3,6 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -13,12 +11,14 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Java Institute for Advance Technology, Sri Lanka**
 
-- 🧑‍🎓 I'm currently pursuing a **Bachelor of Engineering (BEng) (Hons) in Software Engineering, IIC University of Technology, Cambodia**
+- 🎓 I'm currently pursuing a **Bachelor of Engineering (BEng) (Hons) in Software Engineering, IIC University of Technology, Cambodia**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **madhushanlakshitha999@gmail.com** & **https://lakshitha-m.vercel.app/**
-
+- 📫 You can visit **https://lakshitha-m.vercel.app/**
+  
+- ✉️ How to reach me **madhushanlakshitha999@gmail.com**
+                     
 </td>
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
