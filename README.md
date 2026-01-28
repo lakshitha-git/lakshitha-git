@@ -45,7 +45,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="android" width="50" height="50"/></a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular" width="50" height="50"/> </a> 
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Light.svg" alt="angular" width="50" height="50"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="50" height="50"/> </a> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" width="50" height="50"/> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
