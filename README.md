@@ -17,12 +17,12 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **madhushanlakshitha999@gmail.com**
+- 📫 How to reach me **madhushanlakshitha999@gmail.com** & **https://lakshitha-m.vercel.app/**
 
 </td>
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-	<br><br>
+	<br>
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
   </td>
 </tr>
