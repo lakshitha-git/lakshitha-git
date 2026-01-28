@@ -3,7 +3,6 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -24,6 +23,10 @@
   </td>
 </tr>
 </table>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 ---
 
