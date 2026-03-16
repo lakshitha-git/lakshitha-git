@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📄 Look at my resume **https://github.com/lakshitha-git/resume/blob/main/lakshitha-resume.pdf**
+- 📄 Look at my resume **https://github.com/lakshitha-git/resume/blob/main/my-cv.pdf**
 
 - 📫 You can visit **https://lakshitha-m.vercel.app**
   
